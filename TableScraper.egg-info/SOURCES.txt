@@ -1,0 +1,9 @@
+LICENSE.md
+README.md
+setup.py
+TableScraper.egg-info/PKG-INFO
+TableScraper.egg-info/SOURCES.txt
+TableScraper.egg-info/dependency_links.txt
+TableScraper.egg-info/entry_points.txt
+TableScraper.egg-info/requires.txt
+TableScraper.egg-info/top_level.txt

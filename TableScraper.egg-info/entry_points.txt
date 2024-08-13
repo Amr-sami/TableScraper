@@ -1,0 +1,3 @@
+[console_scripts]
+extract-tables = webscraping:extract_tables_from_url
+

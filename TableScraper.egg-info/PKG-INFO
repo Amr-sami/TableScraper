@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: TableScraper
+Version: 0.1
+Summary: A tool for extracting and saving HTML tables as CSV files.
+Home-page: https://github.com/Amr-sami/TableScraper
+Author: Amr Elwany
+Author-email: samyamr819"gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE.md
+
+UNKNOWN
+
