@@ -1,4 +1,4 @@
-# Web Scraping Tool
+# Table Scraping Tool to csv
 
 This Python tool extracts tables from a webpage and saves them as CSV files.
 
