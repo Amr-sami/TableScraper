@@ -9,5 +9,5 @@ pip install TableScraper
 ```
 
 ## usage example
- import TableScraper as ts
- ts.extract_tables_from_url("https://ceoworld.biz/2024/02/13/egypts-largest-companies-by-market-capitalization-2024/")
+ #### import TableScraper as ts
+ #### ts.extract_tables_from_url("https://ceoworld.biz/2024/02/13/egypts-largest-companies-by-market-capitalization-2024/")
